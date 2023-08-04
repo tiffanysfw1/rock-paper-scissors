@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #66ccff;
+}
+
+.container {
+    text-align: center;
+    animation: moveLogoContainer 2s linear infinite alternate;
+    background-color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 32px;
+    background: linear-gradient(90deg, #ffcc00, #66ccff, #a3c933, #ff99cc);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    font-size: 72px;
+    position: relative; /* Set the logo container position to relative */
+    animation: moveLogo 2s linear infinite alternate;
+}
+@keyframes moveLogo {
+    0%, 100% {
+        top: 0;
+    }
+    50% {
+        top: -20px; /* Adjust the distance the logo moves up and down */
+    }
+}
