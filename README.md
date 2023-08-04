@@ -8,7 +8,7 @@ This is a simple implementation of the Classic Paper. Players can choose their m
 
 **Live**
 
-You can try out the game live (github)****
+You can try out the game live: https://tiffanysfw1.github.io/rock-paper-scissors/landing.html
 
 **How to play**
 
