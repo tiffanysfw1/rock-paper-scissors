@@ -35,7 +35,7 @@ Technologies Used
   To run the game locally on your machine:
     • Clone the repository to your local machine:
 
-    • open the ‘index.html’ file in your web browser.
+    • open the landing.html’ file in your web browser.
     • Play the game by clicking on the buttons and enjoy
 
 Contributing
@@ -55,7 +55,9 @@ Authors
 
 Tiffany Chetalam
 
-Social Media Platfrom
+Social Media Platfrom:
+- LinkedIn - https://www.linkedin.com/in/tiffany-chetalam-286bb8260/
+- Discord - https://support.discord.com/hc/en-us/profiles/16527473367831
 
 
 I am a passionate front-end developer with a love for crafting captivating web experiences. My journey in the world of web development began with HTML, CSS, and JavaScript, and it has been an exhilarating ride ever since.
